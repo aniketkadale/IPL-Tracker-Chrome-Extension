@@ -1,0 +1,18 @@
+{
+    "name": "IPL Tracker",
+    "version": "1.0.0",
+    "description": "IPL Tracker is your go-to extension for keeping up with the latest IPL scores and updates. With real-time score updates and notifications, you'll never miss a moment of the action. Follow your favorite teams and players, track live matches, and get instant access to all the latest IPL news and analysis. Whether you're a die-hard cricket fan or just getting started, IPL Tracker is the perfect tool for staying on top of all the IPL action. Download now and start tracking your way to victory!",
+    "manifest_version" : 3,
+    "author": "Aniket Kadale", 
+    "action" : {
+        "default_popup" :"index.html",
+        "default_title": "IPL Tracker"
+    },
+
+    "icons": {
+        "128": "logo128.png",
+        "48": "logo48.png",
+        "16": "logo16.png"
+    }
+
+}
